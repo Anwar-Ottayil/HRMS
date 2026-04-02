@@ -282,14 +282,14 @@ This project demonstrates the implementation of a **real-world HRMS module** usi
 | Attendance | GET    | /api/attendance/employee/1             |
 | Salary     | GET    | /api/salary?employeeId=1&month=2026-03 |
 
-### What Screenshots Should Show
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/745f14a2-4c3f-4426-9a28-efb9cea97990" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/35c07159-4d67-4661-9487-647951b77718" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/742191c8-8974-4a76-8cee-01cf5c0fded9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f1d7ef75-d894-4bbb-ac71-314b1331d75d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8aa97918-b9ad-46d9-b3d8-40070e51a2bd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bc1cd5b8-6817-4f8c-ad0b-d78a75e95d30" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca2a75f4-409a-49a2-b479-8003553f02cd" />
 
-Each screenshot should show:
-
-* Request URL
-* Request Body
-* Response
-* Status Code (200 OK)
 
 ---
 
