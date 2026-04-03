@@ -280,13 +280,14 @@ This project demonstrates the implementation of a **real-world HRMS module** usi
 | Attendance | POST   | /api/attendance                        |         |
 | Salary     | GET    | /api/salary?employeeId=1&month=2026-03 |
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/745f14a2-4c3f-4426-9a28-efb9cea97990" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/35c07159-4d67-4661-9487-647951b77718" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/742191c8-8974-4a76-8cee-01cf5c0fded9" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f1d7ef75-d894-4bbb-ac71-314b1331d75d" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8aa97918-b9ad-46d9-b3d8-40070e51a2bd" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bc1cd5b8-6817-4f8c-ad0b-d78a75e95d30" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca2a75f4-409a-49a2-b479-8003553f02cd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1152c080-0d5e-4c67-9ab0-57d160f287ad" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/41470606-4ad3-47f8-ac93-86e72c7c6e1c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b40fbd00-5bb9-49b9-9731-2020c3afe0f6" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/666d4d7d-2ae3-4efb-afb9-9030eba78895" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0729e2f0-578c-43ec-a41e-33de4a618f1e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3c0c25f4-7a37-4883-931d-6827b91e7a36" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/99587c37-043a-40f5-a799-7927cff168b2" />
+
 
 
 ---
