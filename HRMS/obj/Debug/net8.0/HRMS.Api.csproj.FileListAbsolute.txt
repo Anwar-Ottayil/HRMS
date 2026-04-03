@@ -175,3 +175,4 @@ C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS\obj\Debug\net8.0\HRMS.Api.pdb
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS\obj\Debug\net8.0\HRMS.Api.genruntimeconfig.cache
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS\obj\Debug\net8.0\ref\HRMS.Api.dll
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS\obj\Debug\net8.0\HRMS.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS\obj\Debug\net8.0\HRMS.Api.sourcelink.json

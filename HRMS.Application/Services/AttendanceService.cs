@@ -40,21 +40,6 @@ namespace HRMS.Application.Services
             return ApiResponse<string>.SuccessResponse(null, "Attendance recorded successfully");
         }
 
-        public async Task<ApiResponse<List<AttendanceDto>>> GetAttendanceByEmployeeAsync(int employeeId)
-        {
-            if (employeeId <= 0)
-                return ApiResponse<List<AttendanceDto>>.FailResponse("Invalid EmployeeId");
-
-            var attendances = await _attendanceRepository.GetByEmployeeIdAsync(employeeId);
-
-            var result = attendances.Select(a => new AttendanceDto
-            {
-                EmployeeId = a.EmployeeId,
-                Date = a.Date,
-                Status = a.Status
-            }).ToList();
-
-            return ApiResponse<List<AttendanceDto>>.SuccessResponse(result);
-        }
+       
     }
 }

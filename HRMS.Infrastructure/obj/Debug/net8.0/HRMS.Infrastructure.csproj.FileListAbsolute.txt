@@ -17,3 +17,4 @@ C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Infrastructure\obj\Debug\net8.0\refint
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.pdb
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.genruntimeconfig.cache
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Infrastructure\obj\Debug\net8.0\ref\HRMS.Infrastructure.dll
+C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Infrastructure\obj\Debug\net8.0\HRMS.Infrastructure.sourcelink.json

@@ -17,7 +17,7 @@ namespace HRMS.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> CalculateSalary(int employeeId, string month)
         {
-            // Validation
+            
             if (employeeId <= 0)
                 return BadRequest("Invalid Employee Id");
 

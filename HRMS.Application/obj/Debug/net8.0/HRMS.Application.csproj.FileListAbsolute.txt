@@ -13,3 +13,4 @@ C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Application\obj\Debug\net8.0\HRMS.Appl
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Application\obj\Debug\net8.0\refint\HRMS.Application.dll
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Application\obj\Debug\net8.0\HRMS.Application.pdb
 C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Application\obj\Debug\net8.0\ref\HRMS.Application.dll
+C:\Users\Anwar\OneDrive\Desktop\HRMS\HRMS.Application\obj\Debug\net8.0\HRMS.Application.sourcelink.json

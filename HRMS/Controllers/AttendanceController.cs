@@ -29,18 +29,6 @@ namespace HRMS.Api.Controllers
             return Ok(response);
         }
 
-        [HttpGet("employee/{employeeId}")]
-        public async Task<IActionResult> GetAttendanceByEmployee(int employeeId)
-        {
-            if (employeeId <= 0)
-                return BadRequest("Invalid Employee Id");
-
-            var response = await _attendanceService.GetAttendanceByEmployeeAsync(employeeId);
-
-            if (!response.Success)
-                return NotFound(response);
-
-            return Ok(response);
-        }
+    
     }
 }

@@ -29,29 +29,5 @@ namespace HRMS.Api.Controllers
             return Ok(response);
         }
 
-        [HttpGet]
-        public async Task<IActionResult> GetAllEmployees()
-        {
-            var response = await _employeeService.GetAllEmployeesAsync();
-
-            if (!response.Success)
-                return BadRequest(response);
-
-            return Ok(response);
-        }
-
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetEmployeeById(int id)
-        {
-            if (id <= 0)
-                return BadRequest("Invalid Employee Id");
-
-            var response = await _employeeService.GetEmployeeByIdAsync(id);
-
-            if (!response.Success)
-                return NotFound(response);
-
-            return Ok(response);
-        }
     }
 }
