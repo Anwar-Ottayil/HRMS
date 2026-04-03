@@ -276,10 +276,8 @@ This project demonstrates the implementation of a **real-world HRMS module** usi
 
 | Module     | Method | Endpoint                               |
 | ---------- | ------ | -------------------------------------- |
-| Employee   | POST   | /api/employees                         |
-| Employee   | GET    | /api/employees                         |
-| Attendance | POST   | /api/attendance                        |
-| Attendance | GET    | /api/attendance/employee/1             |
+| Employee   | POST   | /api/employees                         |                     |
+| Attendance | POST   | /api/attendance                        |         |
 | Salary     | GET    | /api/salary?employeeId=1&month=2026-03 |
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/745f14a2-4c3f-4426-9a28-efb9cea97990" />
